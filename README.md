@@ -2,6 +2,8 @@
 
 中文題目來源[高中生程式解題系統](http://zerojudge.tw/ShowProblem?problemid=c087)
 
+我的解法詳見[main.c](https://github.com/wemee/ACM_412_PI/blob/master/main.c)
+
 以下直接複製高中生程式解題系統的中文題目
 
 內容 ：
