@@ -5,7 +5,7 @@
 int gcd(int a, int b);
 void swap(int *a, int *b);
 
-int main(int argc, const char * argv[]) {
+int main() {
     int n, i, j, coprime_count;
     int *ary;
     while( scanf("%d", &n)!=EOF ) {
